@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Mini Project 2 PBO - Sistem Manajemen Stok Bahan Baku Coffee Shop
+UTS PBO - Sistem Manajemen Stok Bahan Baku Coffee Shop
 
 **Nama**  : Ananta Hanif Fidzya Pratama  
 **NIM**   : 2509116023  
@@ -9,7 +8,7 @@
 
 ## Latar Belakang
 
-Pengelolaan stok bahan baku pada usaha *coffee shop*, seperti biji kopi, susu, dan sirup, memerlukan pencatatan yang teliti agar ketersediaan bahan baku tetap terjaga dan operasi harian berjalan lancar. Pencatatan stok secara manual rentan terhadap kesalahan input, kerancuan data, hingga hilangnya riwayat bahan. Oleh karena itu, dibuat program sederhana berbasis Java untuk membantu mencatat, memperbarui, dan memantau stok bahan baku *coffee shop* sebagai pengembangan dari Mini Project 1 dengan menerapkan prinsip-prinsip Pemrograman Berorientasi Objek (PBO).
+Pengelolaan stok bahan baku pada usaha *coffee shop*, seperti biji kopi, susu, dan sirup, memerlukan pencatatan yang teliti agar ketersediaan bahan baku tetap terjaga dan operasi harian berjalan lancar. Pencatatan stok secara manual rentan terhadap kesalahan input, kerancuan data, hingga hilangnya riwayat bahan. Oleh karena itu, dibuat program sederhana berbasis Java untuk membantu mencatat, memperbarui, dan memantau stok bahan baku *coffee shop* 
 
 ---
 
@@ -373,15 +372,3 @@ Tampilan Dummy Data saat Pertama Kali Pilih Menu Tampilkan:
 
 
 ---
-
-## Kesimpulan dan Pengembangan dari Minpro 1
-
-Mini Project 2 ini dikembangkan sebagai perbaikan dan peningkatan dari Mini Project 1. Beberapa poin pengembangan utamanya meliputi:
-
-1. Penerapan arsitektur **MVC** yang memisahkan layer tampilan, logika bisnis, dan model data.
-2. Penerapan konsep PBO lanjutan, seperti **Inheritance** (Superclass & Subclass) serta **Polymorphism** (*Overriding* & *Overloading*).
-3. Peningkatan sistem **Validasi Input** untuk menangani kesalahan tipe data pengguna sehingga mencegah program dari *crash*.
-4. Penambahan fitur pencarian data dan ketersediaan *dummy data* awal.
-=======
-# UTS-PBO-AnantaHanif-2509116023-SistemManajemenBahanBaku
->>>>>>> 71ed53446b17ac8613e1bd540f85d1d471a4a42d
