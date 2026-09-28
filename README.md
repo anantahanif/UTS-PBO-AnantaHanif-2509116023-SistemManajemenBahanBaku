@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Project 2 PBO - Sistem Manajemen Stok Bahan Baku Coffee Shop
 
 **Nama**  : Ananta Hanif Fidzya Pratama  
@@ -381,3 +382,6 @@ Mini Project 2 ini dikembangkan sebagai perbaikan dan peningkatan dari Mini Proj
 2. Penerapan konsep PBO lanjutan, seperti **Inheritance** (Superclass & Subclass) serta **Polymorphism** (*Overriding* & *Overloading*).
 3. Peningkatan sistem **Validasi Input** untuk menangani kesalahan tipe data pengguna sehingga mencegah program dari *crash*.
 4. Penambahan fitur pencarian data dan ketersediaan *dummy data* awal.
+=======
+# UTS-PBO-AnantaHanif-2509116023-SistemManajemenBahanBaku
+>>>>>>> 71ed53446b17ac8613e1bd540f85d1d471a4a42d
